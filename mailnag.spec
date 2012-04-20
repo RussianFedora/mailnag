@@ -12,6 +12,8 @@ Source2: mailnag_config.desktop
 
 BuildArch: noarch
 
+BuildRequires: gettext
+
 Requires: pyxdg
 Requires: pygobject3
 Requires: pygobject2
